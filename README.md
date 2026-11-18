@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%26+Spring+Boot+Developer;AI+%26+Cybersecurity+Enthusiast;Unity+Game+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%26+Spring+Boot+Developer;AI+%26+Cybersecurity+Enthusiast;Unity+Game+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,45 +26,28 @@
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-<p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,js,ts" />
 </p>
 
 ### Web Development
-<p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,spring" />
 </p>
 
 ### Database & Tools
-<p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,postman" />
 </p>
 
 ### Game Development & Cybersecurity
-<p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=unity,kali,linux,bash" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 📚 Library Management System
-A library management application developed using Java, Spring Boot and MySQL.
-
-**Technologies:** Java | Spring Boot | MySQL | Spring Data JPA
-
-[View Repository](https://github.com/mahdi-braiek/library-management-system)
-
-### 🤖 Mehdi-GPT
-A personal AI assistant project focused on desktop automation and intelligent interactions.
-
-**Technologies:** Python | AI | MCP
-
-### 🎮 Tunisian Belote
-An offline multiplayer-style card game concept with AI opponents, developed with Unity.
-
-**Technologies:** Unity | C#
 
 ---
 
@@ -84,19 +67,43 @@ An offline multiplayer-style card game concept with AI opponents, developed with
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/braiek.mahdi/">
+  <a href="https://www.instagram.com/braiek.mahdi/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/1085142925748482130">
+
+  <a href="https://discord.com/users/1085142925748482130" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/mahdi.braiek.2025" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
 ---
 
+<br clear="both">
+
+<div align="center">
+  <h3>🐍 GitHub Contribution Snake</h3>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdi-braiek/mahdi-braiek/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahdi-braiek/mahdi-braiek/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/mahdi-braiek/mahdi-braiek/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 <p align="center">
-  💡 "Building, learning, and improving every day."
+  <i>Building, learning, and improving every day 🚀</i>
 </p>
